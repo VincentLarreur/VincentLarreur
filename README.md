@@ -4,4 +4,4 @@
 
 🌱 I’m currently working on a small side-project to generate a suggested night playing with public APIs
 
-📫 How to reach me vincent.lrr@gmail.com
+📫 How to reach me : contact me on vincent.lrr@gmail.com
