@@ -9,7 +9,8 @@
   <h2>About me</h2>
   <p>Just a french Full-Stack Developer in the making with a passion for the world of IT.</p>
   <p>Interested in everything around web applications from VueJS to Java/Go APIs</p>
-  <p>Currently working on a small side-project to generate a suggested night playing with public APIs</p>
+  <p>Just finished my small side-project to generate a suggested night playing with public APIs called <a href="https://www.nightymaker.com">NightyMaker</a></p>
+  <p>Currently diving in the three.js world !</p>
 </div>
 
 <div align="center">
