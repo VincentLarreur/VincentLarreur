@@ -12,7 +12,7 @@
   <p>Excited about VueJS, crafting Java/Go APIs, and diving into the creative realm of three.js.</p>
   <p>Check out my latest projects:</p>
   <p>
-    <a href="https://www.nightymaker.com/">
+    <a href="https://www.nightymaker.com/](https://nightymaker.netlify.app/">
       NightyMaker
     </a> -
     <a href="https://spoce-project.netlify.app/">
